@@ -42,7 +42,22 @@ As a data science consultancy we pitched CUPS a data driven advertisement approa
 - Best time to send push notifications with coffee discounts is between 8 AM and 12 PM
 ![Plot3](https://flowinger.github.io/images/Results2.png)
 
+### Conclusion & Recommendations
+- Optimal strategy is to target the ten stations with the highest morning exit rates
+- Poster advertisement and mobile ads on Instagram and Facebook around these stations between 8 AM and 12 PM
+- Proactively partner with coffee shops in areas of high commuter density and low CUPS coverage  
 
+### Future Works  
+- Do the same analysis for nightlife traffic in order to partner with restaurants or bars
+- Explore seasonality, expand time horizon and see how subway traffic varies over time to further target ads
+- Analyze transit systems of other cities, like San Francisco, which are also covered by CUPS
+
+
+In conclusion, I would say we worked really well as a team and provided CUPS an interesting use case. 
+
+Best,
+
+Florian
 
 
 
