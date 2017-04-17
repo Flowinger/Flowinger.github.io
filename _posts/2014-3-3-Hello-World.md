@@ -30,8 +30,14 @@ As a data science consultancy we pitched CUPS a data driven advertisement approa
 - Visualize data to see weekly trends and determine the best time frames to efficiently deploy  advertisement  
 
 ### Results  
-- Stations with high amount of exit traffic also have a high amount of entry traffic in the afternoon/evening --> Commuter stations  
-![Plot1]({{ site.url }}/images/plot1.png)  
+- Both grahps show that stations with high amount of exit traffic also have a high amount of entry traffic in the afternoon/evening --> Busiest commuter stations  
+![Plot1](https://flowinger.github.io/images/plot_1.png)  
+
+- Most of the stations with high morning exit traffic are near areas with a high density of coffee shops  
+![Plot2](https://flowinger.github.io/images/CUPS_map.png)
+
+
+
 
 
 
