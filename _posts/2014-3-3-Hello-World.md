@@ -53,7 +53,7 @@ As a data science consultancy we pitched CUPS a data driven advertisement approa
 - Analyze transit systems of other cities, like San Francisco, which are also covered by CUPS
 
 
-In conclusion, I would say we worked really well as a team and provided CUPS an interesting use case. 
+In conclusion, I would say we worked really well as a team and provided CUPS an interesting use case. To end this week, I am trying to further improve my pandas skills, so I started to work on a data set about airline traffic at the San Francisco Airport to put the things I learned to use.   
 
 Best,
 
