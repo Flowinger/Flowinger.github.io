@@ -36,6 +36,11 @@ As a data science consultancy we pitched CUPS a data driven advertisement approa
 - Most of the stations with high morning exit traffic are near areas with a high density of coffee shops  
 ![Plot2](https://flowinger.github.io/images/CUPS_map.png)
 
+- Exit traffic is significantly higher on weekdays compared to weekends
+- Traffic is consistent across weekdays
+- Morning and evening peak for weekday exit traffic in Grand Central station which illustrates potential for market expansion through partnerships with nightlife businesses
+- Best time to send push notifications with coffee discounts is between 8 AM and 12 PM
+![Plot3](https://flowinger.github.io/images/Results2.png)
 
 
 
