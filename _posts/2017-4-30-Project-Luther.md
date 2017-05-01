@@ -10,12 +10,13 @@ My objective for this project was to predict the current market value of players
 - Games, goals, assists, played minutes this season, games for national team
 - World Cup or Champions league winner, in team since, expiry of contract, strong foot, total transfer proceeds    
 
-Over the course of the project I was able to combine features and add additional features to improve the performance of my regression model. After running simple regression models I included 'games for national team' and 'league 1 or 2' as a feature I ran Random Forest, ExtraTrees, XGBoost and Gradient Boosting models which increased my model's score to about 80%.  
+Over the course of the project I was able to combine, remove and add additional features to improve the performance of my regression model. After running simple regression models I included 'games for national team' and 'league 1 or 2' as a feature I ran Random Forest, ExtraTrees, XGBoost and Gradient Boosting models which increased my model's score to about 80%.  
 
-
+Feature importance:
+![Features](/images/feature_importance.png)
 
  
-#![CUPS](https://cdn.cupsapp.com/website/images/footer_logo.png)  
+
 
 
 
