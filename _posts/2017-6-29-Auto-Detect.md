@@ -29,6 +29,6 @@ Here’s a little demo of the app:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_CNRriH_qtA" frameborder="0" allowfullscreen></iframe>
 
 Next Steps:
-I am able to release this app in the next release iOS 11 this fall. Until then, I want to include price averages, show location-based offers of used cars and improve the interface of the app. If you want to look at my code and get more information, visit my <a href="http://www.github.com/Flowinger/AutoDetect>GitHub repo</a>.
+I am able to release this app in the next release iOS 11 this fall. Until then, I want to include price averages, show location-based offers of used cars and improve the interface of the app. If you want to look at my code and get more information, visit my <a href="http://www.github.com/Flowinger/AutoDetect">GitHub repo</a>.
 
 <img src='{{ site.url }}/images/AD_5.png' align='middle' />
