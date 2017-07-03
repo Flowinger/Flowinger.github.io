@@ -1,4 +1,7 @@
-# AutoDetect - Detecting cars with Deep Learning
+---
+layout: post
+title: AutoDetect - Detecting cars with Deep Learning
+---
 
 Hello again,
 This Thursday, we finished off the Metis Data Science boot camp by presenting our final projects to numerous companies on Career Day. As many Germans, I have always been really into cars and Formula 1. I always wanted to be able to create a mobile prototype using machine learning techniques. Eventually, I want to create a platform which makes it easy to get offers and information about a car you see on the street by taking a photo of it.
