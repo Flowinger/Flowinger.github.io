@@ -6,7 +6,7 @@ title: AutoDetect - Detecting cars with Deep Learning
 Hello again,
 
 This Thursday, we finished off the Metis Data Science boot camp by presenting our final projects to numerous companies on Career Day. As many Germans, I have always been really into cars and Formula1. I always wanted to be able to create a mobile prototype using machine learning techniques. Eventually, I want to create a platform which makes it easy to get offers and information about a car you see on the street by taking a photo of it.
-
+<img src='{{ site.url }}/images/AD_1.png' align='center' />
 ![AD1]({{ site.url }}/images/AD_1.png)
 
 So for my final project, I wanted to combine my little experience in iOS development with my knowledge I acquired over the last 12 weeks. My goal for this project was to create an real world application that makes it easy to find out the make, model and average price of a used car.
@@ -29,6 +29,6 @@ Here’s a little demo of the app:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_CNRriH_qtA" frameborder="0" allowfullscreen></iframe>
 
 Next Steps:
-I am able to release this app in the next release iOS 11 this fall. Until then, I want to include price averages and show location-based offers of used cars.
+I am able to release this app in the next release iOS 11 this fall. Until then, I want to include price averages, show location-based offers of used cars and improve the interface of the app. If you want to look at my code and get more information, visit my <a href="http://www.github.com/Flowinger/AutoDetect>GitHub repo</a>.
 
 ![AD5]({{ site.url }}/images/AD_5.png)
