@@ -6,12 +6,12 @@ title: AutoDetect - Detecting cars with Deep Learning
 Hello again,
 This Thursday, we finished off the Metis Data Science boot camp by presenting our final projects to numerous companies on Career Day. As many Germans, I have always been really into cars and Formula 1. I always wanted to be able to create a mobile prototype using machine learning techniques. Eventually, I want to create a platform which makes it easy to get offers and information about a car you see on the street by taking a photo of it.
 
-![AD1](/AD_1.png)
+![AD1]({{ site.url }}/images/AD_1.png)
 
 So for my final project, I wanted to combine my little experience in iOS development with my knowledge I acquired over the last 12 weeks. My goal for this project was to create an real world application that makes it easy to find out the make, model and average price of a used car.
 For building the underlying technology, I used a method within the Deep Learning space called transfer learning. A common task is to first train an image classification model with the ImageNet Challenge data set, and then transfer this model’s knowledge to a distinct task.
 
-![AD2](/AD_2.png)
+![AD2]({{ site.url }}/images/AD_2.png)
 
 I chose to use the pre-trained neural network InceptionV3 as a base model, extend it with my own neural network and fine tune it on about 170,000 car images from over 60,000 cars on eBay Motors.
 
