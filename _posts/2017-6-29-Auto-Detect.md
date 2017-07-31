@@ -77,5 +77,7 @@ Since I didn’t have enough time to finish my idea of a mobile platform for use
 
 <h2>Code</h2>  
 
-If you are interested in the code visit my <a href="http://www.github.com/Flowinger/AutoDetect">GitHub repo</a>.
+If you are interested in the code visit my:  
+
+http://www.github.com/Flowinger/AutoDetect
 
